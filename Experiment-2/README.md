@@ -1,16 +1,9 @@
-# React + Vite
+Understand client-side routing using React Router to navigate between multiple pages without reloading the browser.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Create and structure reusable React components for pages such as Home, About, Contact, and Reviews.
 
-Currently, two official plugins are available:
+Implement form handling and state management to collect user inputs like ratings and written reviews.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Differentiate between frontend and backend responsibilities in a full-stack application.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Apply basic UI logic and user interaction patterns such as checkboxes, star ratings, and conditional rendering.
